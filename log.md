@@ -3,6 +3,8 @@
 link-https://github.com/fabiane9258/about-variables
 
 # day 2:march 13th 2024
-i learnt about functions ;master defining and calling functions
-it was a good experience hope to learn more tommorow
+overview:i learnt about functions ;master defining and calling functions
+
+conclusion:it was a good experience hope to learn more tommorow
+
 link-https://github.com/fabiane9258/java-script
