@@ -12,3 +12,12 @@ link-https://github.com/fabiane9258/java-script
 
 # day 3:march 15th 2024
 https://github.com/fabiane9258/variabless
+
+# day 4:march 15th 2024
+
+overview: so today i learnt about python on variables and...
+
+conclusion:it was tough but with more practice i'll get a hang of it.
+fun fact python is sweet
+
+Link https://github.com/fabiane9258/python
