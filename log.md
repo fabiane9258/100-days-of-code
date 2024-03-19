@@ -20,4 +20,12 @@ overview: so today i learnt about python on variables and...
 conclusion:it was tough but with more practice i'll get a hang of it.
 fun fact python is sweet
 
-Link https://github.com/fabiane9258/python
+
+# day 009:march 19th 2024
+
+OVERVIEW : today I dived into data structures in python,,looked at lists, dictionaries,tuples,sets.
+and also how to access them and add new elements to them.
+
+CONCLUSION : I still need more practice on this so that I can confidently say I know about data structures ,so Kesho I'm doing the same niboost understanding😁
+
+LINK : https://github.com/fabiane9258/Data-Structures.git
