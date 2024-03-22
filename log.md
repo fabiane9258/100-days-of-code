@@ -29,3 +29,11 @@ and also how to access them and add new elements to them.
 CONCLUSION : I still need more practice on this so that I can confidently say I know about data structures ,so Kesho I'm doing the same niboost understanding😁
 
 LINK : https://github.com/fabiane9258/Data-Structures.git
+
+# day 3:march 23rd 2024,
+
+WORKED ON: C program, how to compile and run a C program using cmd ,comments and escape sequences.
+
+THOUGHTS: C is pretty easy tbh and fun
+
+LINK:https://github.com/fabiane9258/C-.git
